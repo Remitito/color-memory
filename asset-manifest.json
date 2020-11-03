@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/color-memory/static/css/main.0461c3c2.chunk.css",
+    "main.js": "/color-memory/static/js/main.966fa96c.chunk.js",
+    "main.js.map": "/color-memory/static/js/main.966fa96c.chunk.js.map",
+    "runtime-main.js": "/color-memory/static/js/runtime-main.bfa085b5.js",
+    "runtime-main.js.map": "/color-memory/static/js/runtime-main.bfa085b5.js.map",
+    "static/js/2.1f81a157.chunk.js": "/color-memory/static/js/2.1f81a157.chunk.js",
+    "static/js/2.1f81a157.chunk.js.map": "/color-memory/static/js/2.1f81a157.chunk.js.map",
+    "index.html": "/color-memory/index.html",
+    "static/css/main.0461c3c2.chunk.css.map": "/color-memory/static/css/main.0461c3c2.chunk.css.map",
+    "static/js/2.1f81a157.chunk.js.LICENSE.txt": "/color-memory/static/js/2.1f81a157.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/color-memory/static/media/pexels-deeana-creates-5585558.7d7224e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa085b5.js",
+    "static/js/2.1f81a157.chunk.js",
+    "static/css/main.0461c3c2.chunk.css",
+    "static/js/main.966fa96c.chunk.js"
+  ]
+}
